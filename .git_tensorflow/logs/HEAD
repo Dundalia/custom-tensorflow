@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 9bd61d595b61e7d739bd0e765be36ca6c874cb1f Ubuntu <ubuntu@ip-172-31-41-85.eu-north-1.compute.internal> 1732096314 +0000	clone: from https://github.com/tensorflow/tensorflow.git
+9bd61d595b61e7d739bd0e765be36ca6c874cb1f 8241bac6da09ea42ff8c5c7a83067496019432e8 Ubuntu <ubuntu@ip-172-31-41-85.eu-north-1.compute.internal> 1732096330 +0000	checkout: moving from master to r2.18
